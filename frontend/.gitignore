@@ -1,0 +1,17 @@
+# Logs
+# تجاهل مجلدات node_modules و dist
+node_modules/
+dist/
+.vite/
+
+# تجاهل ملفات البيئة
+.env
+
+# تجاهل الملفات المؤقتة مثل .DS_Store (على macOS)
+.DS_Store
+
+# تجاهل الملفات الكبيرة مثل صور وفيديوهات
+*.mp4
+*.zip
+*.psd
+*.ai
